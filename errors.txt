@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 2248: expected '=' not found.
+    image oyunsonuekran
+                       ^
+
+File "game/script.rpy", line 2249: expected '=' not found.
+    image hazirlayanlar
+                       ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Thu Apr  6 02:27:38 2023
